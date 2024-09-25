@@ -1,6 +1,7 @@
 # Protein Sequence Generator
 
 ![Alt text](./images/protein.jpg)
+https://www.bakerlab.org/2023/05/08/deep-learning-improves-protein-binder-design-tenfold/
 
 ## Description
 
